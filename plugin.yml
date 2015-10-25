@@ -1,0 +1,6 @@
+name: ResidenceFurniturePerms
+main: main.java.me.BlackBeltPanda.ResidenceFurniturePerms.Main
+description: ResidenceFurniturePerms
+version: 1.0
+author: BlackBeltPanda
+depend: [Residence, FurnitureLib]
